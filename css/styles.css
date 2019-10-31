@@ -42,7 +42,7 @@ p {
 /* Download Button */
 
 .download {
-  margin: 5% 3% 5% 0%;
+  margin: 5% 3% 5% 0;
 }
 
 /* Navigation Section */
@@ -150,7 +150,7 @@ p {
 
 /* Footer Section */
 
-.footer-link:link {
+.footer-link {
   color: #000;
   padding: 2%;
 }
