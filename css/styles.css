@@ -39,10 +39,17 @@ p {
   background-color: #fff;
 }
 
-/* Download Button */
+/* Button */
 
 .download {
   margin: 5% 3% 5% 0;
+}
+
+.btn-top {
+  bottom: 60px;
+  position: fixed;
+  right: 20px;
+  z-index: 1;
 }
 
 /* Navigation Section */
